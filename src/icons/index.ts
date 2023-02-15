@@ -1,1 +1,1 @@
-export { LayoutIcon } from './Layout';
+export { LayoutIcon } from "./Layout";
